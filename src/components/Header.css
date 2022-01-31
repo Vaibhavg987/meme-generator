@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  width: 100%;
+  background-color: blue;
+  color: white;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  /* justify-content: center; */
+  height: 55px;
+  align-items: center;
+  padding: 7px;
+}
+.header__logo {
+  width: 70px;
+  margin: 5px 30px;
+}
